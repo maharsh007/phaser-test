@@ -1,1 +1,1 @@
-Small project to checkgh out phaser :)
+Small project to check out phaser :)
